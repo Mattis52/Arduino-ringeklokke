@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2026
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Arduino-ringeklokke", "Arduino-ringeklokke\Arduino-ringeklokke.csproj", "{B83FE0A5-72E1-4064-9AE1-9C256D8DE306}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|ARM = Debug|ARM
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|ARM = Release|ARM
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B83FE0A5-72E1-4064-9AE1-9C256D8DE306}.Debug|ARM.ActiveCfg = Debug|ARM
+		{B83FE0A5-72E1-4064-9AE1-9C256D8DE306}.Debug|ARM.Build.0 = Debug|ARM
+		{B83FE0A5-72E1-4064-9AE1-9C256D8DE306}.Debug|ARM.Deploy.0 = Debug|ARM
+		{B83FE0A5-72E1-4064-9AE1-9C256D8DE306}.Debug|x64.ActiveCfg = Debug|x64
+		{B83FE0A5-72E1-4064-9AE1-9C256D8DE306}.Debug|x64.Build.0 = Debug|x64
+		{B83FE0A5-72E1-4064-9AE1-9C256D8DE306}.Debug|x64.Deploy.0 = Debug|x64
+		{B83FE0A5-72E1-4064-9AE1-9C256D8DE306}.Debug|x86.ActiveCfg = Debug|x86
+		{B83FE0A5-72E1-4064-9AE1-9C256D8DE306}.Debug|x86.Build.0 = Debug|x86
+		{B83FE0A5-72E1-4064-9AE1-9C256D8DE306}.Debug|x86.Deploy.0 = Debug|x86
+		{B83FE0A5-72E1-4064-9AE1-9C256D8DE306}.Release|ARM.ActiveCfg = Release|ARM
+		{B83FE0A5-72E1-4064-9AE1-9C256D8DE306}.Release|ARM.Build.0 = Release|ARM
+		{B83FE0A5-72E1-4064-9AE1-9C256D8DE306}.Release|ARM.Deploy.0 = Release|ARM
+		{B83FE0A5-72E1-4064-9AE1-9C256D8DE306}.Release|x64.ActiveCfg = Release|x64
+		{B83FE0A5-72E1-4064-9AE1-9C256D8DE306}.Release|x64.Build.0 = Release|x64
+		{B83FE0A5-72E1-4064-9AE1-9C256D8DE306}.Release|x64.Deploy.0 = Release|x64
+		{B83FE0A5-72E1-4064-9AE1-9C256D8DE306}.Release|x86.ActiveCfg = Release|x86
+		{B83FE0A5-72E1-4064-9AE1-9C256D8DE306}.Release|x86.Build.0 = Release|x86
+		{B83FE0A5-72E1-4064-9AE1-9C256D8DE306}.Release|x86.Deploy.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A1437B2F-849E-4820-A391-AFA24329BF7C}
+	EndGlobalSection
+EndGlobal
